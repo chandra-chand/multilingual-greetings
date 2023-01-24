@@ -1,0 +1,16 @@
+.active {
+  background-color: #db1c48;
+  color: #ffffff;
+  border: none;
+  outline: none;
+  border-radius: 40px;
+}
+.not-active {
+  background-color: #ffffff;
+  color: #db1c48;
+  border: 1px solid #db1c48;
+}
+.list {
+  margin-right: 25px;
+  list-style-type: none;
+}
